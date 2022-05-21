@@ -1,5 +1,5 @@
 ### Welcome to my profile!
-Working on game dev and discord bot
+Working on game dev and discord bot :)
 
 Tools I Know: <img height="32" width="32" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg'> 
 <img height="32" width="32" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg'>
